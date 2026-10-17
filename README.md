@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm irsam33!
 
-<!--
-**irsam33/irsam33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://demolab.com!;" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🧑‍💻 I am a software developer passionate about building smart solutions and innovative applications.
+- 🎯 Currently focusing on leveling up my skills and expanding my open-source contributions.
+- 💡 I believe that writing clean, scalable code makes a massive difference.
+
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <!-- Feel free to keep the technologies you use and delete or add others -->
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://vercel.app" alt="irsam33's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="irsam33's Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://x.com/Samirsnb216" target="_blank">
+    <img src="https://shields.io" alt="twitter" />
+  </a>
+</p>
