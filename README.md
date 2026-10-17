@@ -37,6 +37,7 @@
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://x.com/Samirsnb216" target="_blank">
-    <img src="https://shields.io" alt="twitter" />
+    <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FSamirsnb216
+" alt="twitter" />
   </a>
 </p>
